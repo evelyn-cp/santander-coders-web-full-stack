@@ -20,7 +20,7 @@ const matriz = [
 ];
 
 const somaColuna = (estado, item) => {
-    return [estado[0]+item[0]+item[1], estado[1]+item[2]+item[3], estado[2]+item[2]+item[2]];
+    return [estado[0]+item[0]+item[1], estado[1]+item[2]+item[3], estado[2]+item[4]+item[5]];
 
 };
 

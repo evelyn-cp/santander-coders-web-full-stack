@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    /*font: normal bold 16px/normal tahoma;*/
+    font-family: 'Ubuntu', sans-serif;
+}
+
+article {
+    width: 300px;
+    text-align: center;
+    background-color: #743e3ed7;
+    /*cor original: #68b04d*/
+    border-radius: 10px;
+    margin: 50px auto 20px;
+    padding: 5px;
+    overflow: hidden;
+    box-shadow: 3px 3px 10px #ccc;
+}
+
+article h3 {
+    padding: 5px;
+    color: white;
+    font-size: 1.3em;
+}
+
+article .count {
+    padding:  20px;
+}
+
+article #timer {
+    padding: 25px;
+    color:  rgb(90, 18, 32);
+    background-color: aliceblue;
+    border-radius: 2px;
+    font-size: 1.2em;
+    font-weight: bolder;
+}
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #fff;
+
+}

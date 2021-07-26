@@ -11,6 +11,7 @@ body {
     width: 100%;
     /*font: normal bold 16px/normal tahoma;*/
     font-family: 'Ubuntu', sans-serif;
+    background-color: #f1f1f1;
 }
 
 article {
